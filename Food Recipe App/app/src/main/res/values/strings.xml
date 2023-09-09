@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name" translatable="false">Mi Aplicación</string>
+
+
+    <string name="item_alfredo_pasta">Alfredo Pasta</string>
+    <string name="item_alfredo_pasta_description">Fettuccine Alfredo is an Italian pasta dish of fresh fettuccine tossed with butter and parmesan. As the cheese melts, it emulsifies the liquids to form a smooth and rich cheese sauce coating the pasta. The dish is named after Alfredo Di Lelio, who featured the dish at his restaurant in Rome.</string>
+    <string name="item_alfredo_pasta_otherTitle">Ingredients and Calories</string>
+    <string name="item_alfredo_pasta_ingCal">Butter, grated parmesan cheese, pasta, salt, and pepper.\n1200 calories</string>
+
+
+    <string name="item_lemon_chicken">Lemon Chicken</string>
+    <string name="item_lemon_chicken_description">The chicken breast is generously coated in parmesan and pan-fried to give it a crispy crust. The chicken is then smothered in a lemon butter sauce with garlic that adds so much flavor to the chicken.</string>
+    <string name="item_lemon_chicken_otherTitle">Ingredients and Calories</string>
+    <string name="item_lemon_chicken_ingCal">Boneless skinless chicken breasts, all purpose flour, kosher salt, pepper, large eggs, olive oil, salted butter, white wine, lemons, and fresh parsley.\n1437 calories</string>
+
+
+    <string name="item_cheesecake">Cheesecake</string>
+    <string name="item_cheesecake_description">Cheesecake, a dessert consisting of a thick, creamy filling of cheese, eggs, and sugar over a thinner crust and topped with sweet or sometimes salty items.</string>
+    <string name="item_cheesecake_otherTitle">Ingredients and Calories</string>
+    <string name="item_cheesecake_ingCal">Soft cheese, eggs, sugar, butter, and graham cracker crumbs.\n401 calories</string>
+
+
+    <string name="item_frenchFries">French Fries</string>
+    <string name="item_frenchFries_description">French fries, also called chips, finger chips, fries, or french pommes frites, side dish or snack typically made from deep-fried potatoes that have been cut into various shapes, especially thin strips. Fries are often salted and served with other items, including ketchup, mayonnaise, or vinegar.</string>
+    <string name="item_frenchFries_otherTitle">Ingredients and Calories</string>
+    <string name="item_frenchFries_ingCal">White sugar, russet potatoes, vegetable, and salt.\n365 calories</string>
+
+
+    <string name="item_spaghetti">Spaghetti</string>
+    <string name="item_spaghetti_description">Red sauce pasta, or also referred to as Arrabbiata, is cooked using olive oil, tomatoes, garlic and red chilli peppers. All these ingredients give red sauce pasta a spicy flavour. As its main ingredient is tomato, it is a rich source of vitamin C and lycopene.</string>
+    <string name="item_spaghetti_otherTitle">Ingredients and Calories</string>
+    <string name="item_spaghetti_ingCal">Pelati tomatoes, virgin olive oil, red onion, red chilli peppers, garlic, basil, salt, and black pepper.\n250 calories</string>
+
+
+    <string name="item_pizza">Pizza</string>
+    <string name="item_pizza_description">Pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly usually, in a commercial setting, using a wood fired oven heated to a very high temperature and served hot.</string>
+    <string name="item_pizza_otherTitle">Ingredients and Calories</string>
+    <string name="item_pizza_ingCal">Pizza dough, sugar, salt, mozzarella, flour, tomato sauce, parmesan cheese, garlic, black pepper, and olive oil.\n285 calories</string>
+
+
+    <string name="item_ribs">Ribs</string>
+    <string name="item_ribs_description">In American cuisine, ribs usually refers to barbecue pork ribs, or sometimes beef ribs, which are served with various barbecue sauces. They are served as a rack of meat which diners customarily tear apart by hand, then eat the meat from the bone.</string>
+    <string name="item_ribs_otherTitle">Ingredients and Calories</string>
+    <string name="item_ribs_ingCal">Country style pork ribs, kosher salt, garlic powder, black pepper, barbeque sauce, BBQ sauce, garlic, olive oil, and worcestershire sauce.\n299 calories</string>
+
+
+    <string name="fab_add_content_description">Add Item</string>
+
+
+</resources>
+
+
+
+

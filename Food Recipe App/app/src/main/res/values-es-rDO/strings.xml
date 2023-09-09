@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="item_alfredo_pasta">Pasta Alfredo</string>
+    <string name="item_alfredo_pasta_description">Fettuccine Alfredo es un plato de pasta italiana de fettuccine fresco mezclado con mantequilla y parmesano. A medida que el queso se derrite, emulsiona los líquidos para formar una salsa de queso rica y suave que cubre la pasta. El plato lleva el nombre de Alfredo Di Lelio, quien presentó el plato en su restaurante en Roma.</string>
+    <string name="item_alfredo_pasta_otherTitle">Ingredientes y calorías</string>
+    <string name="item_alfredo_pasta_ingCal">Mantequilla, queso parmesano rallado, pasta, sal y pimienta.\n1200 calorías</string>
+
+
+
+    <string name="item_lemon_chicken">Pollo al Limón</string>
+    <string name="item_lemon_chicken_description">La pechuga de pollo se cubre generosamente con queso parmesano y se fríe para darle una corteza crujiente. Luego, el pollo se cubre con una salsa de mantequilla de limón con ajo que le agrega mucho sabor al pollo.</string>
+    <string name="item_lemon_chicken_otherTitle">Ingredientes y calorías</string>
+    <string name="item_lemon_chicken_ingCal">Pechugas de pollo deshuesadas y sin piel, harina para todo uso, sal kosher, pimienta, huevos grandes, aceite de oliva, mantequilla salada, vino blanco, limones y perejil fresco.\n1437 calorías</string>
+
+
+    <string name="item_cheesecake">Tarta de queso</string>
+    <string name="item_cheesecake_description">Pastel de queso, un postre que consiste en un relleno espeso y cremoso de queso, huevos y azúcar sobre una corteza más delgada y cubierto con elementos dulces o, a veces, salados.</string>
+    <string name="item_cheesecake_otherTitle">Ingredientes y calorías</string>
+    <string name="item_cheesecake_ingCal">Queso blando, huevos, azúcar, mantequilla y migas de galleta graham.\n401 calorías</string>
+
+
+    <string name="item_frenchFries">Papas Fritas</string>
+    <string name="item_frenchFries_description">Papas fritas, también llamadas papas fritas, papas fritas, papas fritas o pommes frites, guarnición o refrigerio típicamente hecho de papas fritas que se han cortado en varias formas, especialmente en tiras finas. Las papas fritas a menudo se salan y se sirven con otros artículos, como salsa de tomate, mayonesa o vinagre.</string>
+    <string name="item_frenchFries_otherTitle">Ingredientes y calorías</string>
+    <string name="item_frenchFries_ingCal">Azúcar blanca, papas russet, vegetales y sal.\n365 calorías</string>
+
+
+    <string name="item_spaghetti">Espaguetis</string>
+    <string name="item_spaghetti_description">La pasta con salsa roja, o también conocida como Arrabbiata, se cocina con aceite de oliva, tomates, ajo y pimientos rojos. Todos estos ingredientes le dan a la pasta con salsa roja un sabor picante. Como su ingrediente principal es el tomate, es una rica fuente de vitamina C y licopeno.</string>
+    <string name="item_spaghetti_otherTitle">Ingredientes y calorías</string>
+    <string name="item_spaghetti_ingCal">Tomates pelati, aceite de oliva virgen, cebolla morada, guindillas rojas, ajo, albahaca, sal y pimienta negra.\n250 calorías</string>
+
+
+    <string name="item_pizza">Pizza</string>
+    <string name="item_pizza_description">Pizza, plato de origen italiano que consiste en un disco aplanado de masa de pan cubierto con una combinación de aceite de oliva, orégano, tomate, aceitunas, mozzarella u otro queso y muchos otros ingredientes, horneado rápidamente, por lo general, en un ambiente comercial, usando una leña. horno de fuego calentado a una temperatura muy alta y servido caliente.</string>
+    <string name="item_pizza_otherTitle">Ingredientes y calorías</string>
+    <string name="item_pizza_ingCal">Masa de pizza, azúcar, sal, mozzarella, harina, salsa de tomate, queso parmesano, ajo, pimienta negra y aceite de oliva.\n285 calorías</string>
+
+
+    <string name="item_ribs">Costillas</string>
+    <string name="item_ribs_description">En la cocina estadounidense, las costillas generalmente se refieren a las costillas de cerdo a la barbacoa, o a veces a las costillas de res, que se sirven con varias salsas de barbacoa. Se sirven como un costillar de carne que los comensales suelen desgarrar a mano y luego comen la carne del hueso.</string>
+    <string name="item_ribs_otherTitle">Ingredientes y calorías</string>
+    <string name="item_ribs_ingCal">Costillas de cerdo al estilo campestre, sal kosher, ajo en polvo, pimienta negra, salsa barbacoa, salsa barbacoa, ajo, aceite de oliva y salsa inglesa.\n299 calorías</string>
+
+
+
+    <string name="fab_add_content_description">Anadir articulo</string>
+
+
+
+</resources>
+
+
+
